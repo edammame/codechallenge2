@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body.team {
+  background-color: #f0e5d8;
+}
